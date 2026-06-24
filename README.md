@@ -42,8 +42,8 @@
 | Project | What it does | Built with |
 | --- | --- | --- |
 | [**ai-daily-digest**](https://github.com/Alexhieuvuong/ai-daily-digest) | Automated daily AI news digest, delivered to your inbox | Python · DeepSeek |
+| [**podcast-notes**](https://github.com/Alexhieuvuong/podcast-notes) | Turns YouTube podcasts into clean, summarized notes | Python · Claude / DeepSeek |
 | [**MenuCoMai2026**](https://github.com/Alexhieuvuong/MenuCoMai2026) | Animated, mobile-first restaurant menu & banner experience | HTML · CSS · JS |
-| [**cincin-restaurant**](https://github.com/Alexhieuvuong/cincin-restaurant) | Modern, responsive restaurant website | PHP · MySQL |
 | [**neural-network-project**](https://github.com/Alexhieuvuong/neural-network-project) | Hands-on neural network experiments | Jupyter · Python |
 
 ---
