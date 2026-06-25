@@ -1,6 +1,6 @@
  <h1 align="center">Hi there, I'm Hieu Dinh Vuong 👋</h1>
 <p align="center">
-  <em>Good to see your smile — Yahooo! 😄</em>
+  <em>Good to see your smile — Hehe! 😄</em>
 </p>
 <p align="center">
   Builder of small, useful things — AI automation, web apps, and the occasional neural net.
