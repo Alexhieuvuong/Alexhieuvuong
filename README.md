@@ -48,10 +48,23 @@
 
 | Project | What it does | Built with |
 | --- | --- | --- |
-| [**ai-daily-digest**](https://github.com/Alexhieuvuong/ai-daily-digest) | Automated daily AI news digest, delivered to your inbox | Python · DeepSeek |
-| [**podcast-notes**](https://github.com/Alexhieuvuong/podcast-notes) | Turns YouTube podcasts into clean, summarized notes | Python · Claude / DeepSeek |
+| [**ai-daily-digest**](https://github.com/Alexhieuvuong/ai-daily-digest) | Automated daily AI news digest, delivered to your inbox | Python · DeepSeek · GitHub Actions |
+| [**podcast-notes**](https://github.com/Alexhieuvuong/podcast-notes) | Turns YouTube podcasts into clean, summarized Vietnamese notes | Python · Claude · DeepSeek |
+| [**curiosity-daily**](https://github.com/Alexhieuvuong/curiosity-daily) | Daily English curiosity brief + vocabulary builder, sent to your inbox | Python · DeepSeek · GitHub Actions |
 | [**MenuCoMai2026**](https://github.com/Alexhieuvuong/MenuCoMai2026) | Animated, mobile-first restaurant menu & banner experience | HTML · CSS · JS |
-| [**neural-network-project**](https://github.com/Alexhieuvuong/neural-network-project) | Hands-on neural network experiments | Jupyter · Python |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Alexhieuvuong&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexhieuvuong&layout=compact&theme=tokyonight&hide_border=true" alt="top langs"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alexhieuvuong&theme=tokyonight&hide_border=true" alt="streak"/>
+</p>
 
 ---
 
