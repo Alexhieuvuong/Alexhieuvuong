@@ -1,4 +1,12 @@
- <h1 align="center">Hi there, I'm Hieu Dinh Vuong 👋</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=680&lines=AI+Tools+%26+Automation;LLM+pipelines+%26+agents;Building+small%2C+useful+things" alt="Typing animation" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Coding GIF" />
+</div>
+
+<h1 align="center">Hi there, I'm Hieu Dinh Vuong 👋</h1>
 <p align="center">
   <em>Good to see your smile — Hehe! 😄</em>
 </p>
@@ -26,14 +34,13 @@
 
 ### 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,php,mysql,git" alt="Tech stack" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter"/>
+</div>
 
 ---
 
@@ -58,6 +65,18 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alexhieuvuong&theme=tokyonight&hide_border=true" alt="streak"/>
 </p>
+
+---
+
+### 🐍 Watch the snake eat my contributions
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alexhieuvuong/Alexhieuvuong/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alexhieuvuong/Alexhieuvuong/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/Alexhieuvuong/Alexhieuvuong/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
 
 ---
 
