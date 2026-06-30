@@ -3,8 +3,16 @@
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Coding GIF" />
+  <img src="https://raw.githubusercontent.com/anthropics/claude-code/main/demo.gif" width="600" alt="Claude Code demo" />
 </div>
+
+<h1 align="center">Hi there, I'm Hieu Dinh Vuong 👋</h1>
+<p align="center">
+  <em>Good to see your smile — Hehe! 😄</em>
+</p>
+<p align="center">
+  Builder of small, useful things — AI automation, web apps, and the occasional neural net.
+</p>
 
 <p align="center">
   <a href="mailto:hieuvuongforwork@gmail.com">
@@ -46,6 +54,20 @@
 | [**MenuCoMai2026**](https://github.com/Alexhieuvuong/MenuCoMai2026) | Animated, mobile-first restaurant menu & banner experience | HTML · CSS · JS |
 
 ---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Alexhieuvuong&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexhieuvuong&layout=compact&theme=tokyonight&hide_border=true" alt="top langs"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alexhieuvuong&theme=tokyonight&hide_border=true" alt="streak"/>
+</p>
+
+---
+
 ### 🐍 Watch the snake eat my contributions
 
 <div align="center">
