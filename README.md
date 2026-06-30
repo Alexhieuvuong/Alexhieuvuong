@@ -3,10 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.tenor.com/UEFrl-Qr4u8AAAAM/claude-claude-code.gif" width="160" alt="Claude Code bear" />
-  <img src="https://media.tenor.com/SMnwh5qahvUAAAAm/claude-claude-code.webp" width="160" alt="Claude Code pig" />
-  <img src="https://media.tenor.com/Lzme_OfgpXYAAAAM/ok-claude.gif" width="160" alt="Ok Claude dance" />
-  <img src="https://media.tenor.com/rVvqK35WMJ0AAAAM/claude-ai.gif" width="160" alt="Claude AI star" />
+  <img src="https://media.tenor.com/SMnwh5qahvUAAAAm/claude-claude-code.webp" width="300" alt="Claude Code pig" />
 </div>
 
 <h1 align="center">Hi there, I'm Hieu Dinh Vuong 👋</h1>
