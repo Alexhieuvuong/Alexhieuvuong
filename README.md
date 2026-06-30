@@ -11,10 +11,6 @@
   <em>Good to see your smile — Hehe! 😄</em>
 </p>
 <p align="center">
-  Builder of small, useful things — AI automation, web apps, and the occasional neural net.
-</p>
-
-<p align="center">
   <a href="mailto:hieuvuongforwork@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
@@ -54,20 +50,6 @@
 | [**MenuCoMai2026**](https://github.com/Alexhieuvuong/MenuCoMai2026) | Animated, mobile-first restaurant menu & banner experience | HTML · CSS · JS |
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Alexhieuvuong&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexhieuvuong&layout=compact&theme=tokyonight&hide_border=true" alt="top langs"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alexhieuvuong&theme=tokyonight&hide_border=true" alt="streak"/>
-</p>
-
----
-
 ### 🐍 Watch the snake eat my contributions
 
 <div align="center">
